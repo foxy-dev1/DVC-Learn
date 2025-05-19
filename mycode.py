@@ -1,9 +1,9 @@
 import os
 import pandas as pd
 
-data = {"name":["alice","bob","charlie","pop"],
-        "age":[19,23,44,34],
-        "city":["new york","los angeles","chicago","SF"]
+data = {"name":["alice","bob","charlie","pop","lost"],
+        "age":[19,23,44,34,21],
+        "city":["new york","los angeles","chicago","SF","DC"]
        }
 
 df = pd.DataFrame(data)
