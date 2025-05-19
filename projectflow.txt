@@ -11,3 +11,9 @@
 6. dvc add data/   to track the data folder
 
 7. git add .gitignore data.dvc
+
+8. git add, commit, push 
+
+9. dvc status to check status of dvc
+
+10. dvc commit and push to save data to S3
